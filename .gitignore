@@ -1,0 +1,12 @@
+# Local credentials and environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Python / editor output
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
